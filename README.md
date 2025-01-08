@@ -1,6 +1,6 @@
 ## LexFernandes 👋
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Junior`**
 
 Olá! Meu nome é Alex Lopes Fernandes, tenho 38 anos e sou natural de Belo Horizonte, MG. Sou apaixonado por tecnologia e, após uma trajetória na área administrativa, estou em transição de carreira para o mundo do desenvolvimento de software.
 
