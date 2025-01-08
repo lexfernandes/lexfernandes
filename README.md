@@ -101,7 +101,7 @@ Em breve, você poderá conferir alguns dos meus projetos no meu GitHub, onde es
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
